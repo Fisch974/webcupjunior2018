@@ -1,0 +1,431 @@
+<!-- BEGIN: CONTENT/BLOG/RECENT-POSTS-2 -->
+<div class="c-content-box c-size-md c-bg-white">
+	<div class="container">
+	    <div class="row">
+	    	<div class="col-md-6">
+	    		<div class="c-content-title-1 c-theme c-title-md c-margin-t-40">
+					<h3 class="c-font-bold c-font-uppercase">Latest Posts 1</h3>
+				</div>
+	    		<div class="c-content-tab-1 c-theme c-margin-t-30">
+						<div class="tab-content">
+					    	<div class="tab-pane active" id="blog_recent_posts">
+					    		<ul class="c-content-recent-posts-1">
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/09.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/08.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Latest Jango Showcast... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/07.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Latest Design Trends... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/32.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Perfec Web Development Tools... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    		</ul>
+					    	</div>
+					    	<div class="tab-pane" id="blog_popular_posts">
+					    		<ul class="c-content-recent-posts-1">
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/34.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/37.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/32.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/54.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    		</ul>
+					    	</div>
+					  	</div>
+					  	<ul class="nav nav-tabs tabs-below">
+						    <li class="active"><a href="#blog_recent_posts" data-toggle="tab">Recent Posts</a></li>
+						    <li><a href="#blog_popular_posts" data-toggle="tab">Popular Posts</a></li>
+						</ul>
+				 </div>
+			</div>
+	    	<div class="col-md-6">
+	    		<div class="c-content-title-1 c-theme c-title-md c-margin-t-40">
+					<h3 class="c-font-bold c-font-uppercase">Latest Posts 2</h3>
+				</div>
+	    		<div class="c-content-tab-1 c-theme c-margin-t-30">
+					<div class="nav-justified">
+						<ul class="nav nav-tabs nav-justified">
+						    <li class="active"><a href="#blog_recent_posts_2" data-toggle="tab">Recent Posts</a></li>
+						    <li><a href="#blog_popular_posts_2" data-toggle="tab">Popular Posts</a></li>
+						</ul>
+						<div class="tab-content">
+					    	<div class="tab-pane active" id="blog_recent_posts_2">
+					    		<ul class="c-content-recent-posts-1">
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/09.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/08.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Latest Jango Showcast... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/07.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Latest Design Trends... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/32.jpg" alt="" class="img-responsive">
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					Perfec Web Development Tools... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    		</ul>
+					    	</div>
+					    	<div class="tab-pane" id="blog_popular_posts_2">
+					    		<ul class="c-content-recent-posts-1">
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/34.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/37.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/32.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    			<li>
+					    				<div class="c-image">
+					    					<img src="./assets/base/img/content/stock/54.jpg" class="img-responsive" alt=""/>
+					    				</div>
+					    				<div class="c-post">
+					    					<a href="" class="c-title">
+					    					UX Design Expo 2015... 
+					    					</a>
+					    					<div class="c-date">27 Jan 2015</div>
+					    				</div>
+					    			</li>
+					    		</ul>
+					    	</div>
+					  	</div>
+				  	</div>
+				</div>
+			</div>
+	    </div>
+	</div>
+</div><!-- END: CONTENT/BLOG/RECENT-POSTS-2 -->
+
+<!-- BEGIN: CONTENT/BLOG/RECENT-POSTS -->
+<div class="c-content-box c-size-md c-bg-grey-1">
+	<div class="container">
+		<!-- Begin: Testimonals 1 component -->
+		<div class="c-content-blog-post-card-1-slider" data-slider="owl">
+			<!-- Begin: Title 1 component -->
+			<div class="c-content-title-1">
+				<h3 class="c-center c-font-uppercase c-font-bold">Recent Blog Posts</h3>
+				<div class="c-line-center c-theme-bg"></div>
+			</div>
+			<!-- End-->
+			<!-- Begin: Owlcarousel -->
+			<div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="3" data-slide-speed="8000" data-rtl="false"> 
+			 	<div class="item">
+			  		<div class="c-content-blog-post-card-1 c-option-2">		
+			  			<div class="c-media c-content-overlay">
+			  				<div class="c-overlay-wrapper">
+				  				<div class="c-overlay-content">
+					  				<a href="#"><i class="icon-link"></i></a>
+					  				<a href="./assets/base/img/content/stock2/06.jpg" data-lightbox="fancybox" data-fancybox-group="gallery">
+					  					<i class="icon-magnifier"></i>
+					  				</a>
+					  			</div>
+			  				</div>
+			  				<img class="c-overlay-object img-responsive" src="./assets/base/img/content/stock2/06.jpg" alt="">
+			  			</div>
+			  			<div class="c-body">
+				  			<div class="c-title c-font-uppercase c-font-bold">
+				  				<a href="#">Web & Mobile Development</a>
+				  			</div>
+				  			<div class="c-author">
+				  				By <a href="#"><span class="c-font-uppercase">Nick Strong</span></a>
+				  				on <span class="c-font-uppercase">20 May 2015, 10:30AM</span>
+				  			</div>
+
+				  			<div class="c-panel">
+								<ul class="c-tags c-theme-ul-bg">
+									<li>ux</li>
+									<li>web</li>
+									<li>events</li>
+								</ul>							
+								<div class="c-comments"><a href="#"><i class="icon-speech"></i> 30 comments</a></div>
+							</div>
+					  		<p>
+					  			Lorem ipsum dolor sit amet, dolor adipisicing elit. 
+					  			Nulla nemo ad sapiente officia amet.
+			                </p>
+		                </div>
+	                </div>
+			  	</div>
+			  	<div class="item">
+			  		<div class="c-content-blog-post-card-1 c-option-2">	
+			  			<div class="c-media c-content-overlay">
+			  				<div class="c-overlay-wrapper">
+				  				<div class="c-overlay-content">
+					  				<a href="#"><i class="icon-link"></i></a>
+					  				<a href="./assets/base/img/content/stock2/01.jpg" data-lightbox="fancybox" data-fancybox-group="gallery">
+					  					<i class="icon-magnifier"></i>
+					  				</a>
+					  			</div>
+			  				</div>
+			  				<img class="c-overlay-object img-responsive" src="./assets/base/img/content/stock2/01.jpg" alt="">
+			  			</div>	
+			  			<div class="c-body">
+				  			<div class="c-title c-font-uppercase c-font-bold">
+				  				<a href="#">Modern Design Trends</a>
+				  			</div>
+				  			<div class="c-author">
+				  				By <a href="#"><span class="c-font-uppercase">Penny Baker</span></a>
+				  				on <span class="c-font-uppercase">25 May 2015, 10:30AM</span>
+				  			</div>
+				  			<div class="c-panel">
+								<ul class="c-tags c-theme-ul-bg">
+									<li>design</li>
+									<li>art</li>
+									<li>trends</li>
+								</ul>							
+								<div class="c-comments"><a href="#"><i class="icon-speech"></i> 18 comments</a></div>
+							</div>
+					  		<p>
+					  			Lorem ipsum dolor sit amet, dolor adipisicing elit. 
+					  			Nulla nemo ad sapiente officia amet.
+			                </p>
+		                </div>
+	                </div>
+			  	</div>	
+			  	<div class="item">
+			  		<div class="c-content-blog-post-card-1 c-option-2">
+			  			<div class="c-media c-content-overlay">
+			  				<div class="c-overlay-wrapper">
+				  				<div class="c-overlay-content">
+					  				<a href="#"><i class="icon-link"></i></a>
+					  				<a href="./assets/base/img/content/stock2/03.jpg" data-lightbox="fancybox" data-fancybox-group="gallery">
+					  					<i class="icon-magnifier"></i>
+					  				</a>
+					  			</div>
+			  				</div>
+			  				<img class="c-overlay-object img-responsive" src="./assets/base/img/content/stock2/03.jpg" alt="">
+			  			</div>	
+			  			<div class="c-body">
+				  			<div class="c-title c-font-uppercase c-font-bold">
+				  				<a href="#">Beatifully crafted Code</a>
+				  			</div>
+				  			<div class="c-author">
+				  				By <a href="#"><span class="c-font-uppercase">Jim Raynor</span></a>
+				  				on <span class="c-font-uppercase">26 May 2015, 10:30AM</span>
+				  			</div>
+
+				  			<div class="c-panel">
+								<ul class="c-tags c-theme-ul-bg">
+									<li>HTML</li>
+									<li>CSS</li>
+									<li>web</li>
+								</ul>							
+								<div class="c-comments"><a href="#"><i class="icon-speech"></i> 34 comments</a></div>
+							</div>
+					  		<p>
+					  			Lorem ipsum dolor sit amet, dolor adipisicing elit. 
+					  			Nulla nemo ad sapiente officia amet.
+			                </p>
+		                </div>
+	                </div>
+			  	</div>		
+			  	<div class="item">
+			  		<div class="c-content-blog-post-card-1 c-option-2">			  			
+			  			<div class="c-media c-content-overlay">
+			  				<div class="c-overlay-wrapper">
+				  				<div class="c-overlay-content">
+					  				<a href="#"><i class="icon-link"></i></a>
+					  				<a href="./assets/base/img/content/stock2/04.jpg" data-lightbox="fancybox" data-fancybox-group="gallery">
+					  					<i class="icon-magnifier"></i>
+					  				</a>
+					  			</div>
+			  				</div>
+			  				<img class="c-overlay-object img-responsive" src="./assets/base/img/content/stock2/04.jpg" alt="">
+			  			</div>	
+			  			<div class="c-body">
+				  			<div class="c-title c-font-uppercase c-font-bold">
+				  				<a href="#">Optimized for all Devices</a>
+				  			</div>
+				  			<div class="c-author">
+				  				By <a href="#"><span class="c-font-uppercase">Sara Conner</span></a>
+				  				on <span class="c-font-uppercase">29 May 2015, 10:30AM</span>
+				  			</div>
+
+				  			<div class="c-panel">
+								<ul class="c-tags c-theme-ul-bg">
+									<li>Mobile</li>
+									<li>web</li>
+									<li>ux</li>
+								</ul>							
+								<div class="c-comments"><a href="#"><i class="icon-speech"></i> 25 comments</a></div>
+							</div>
+					  		<p>
+					  			Lorem ipsum dolor sit amet, dolor adipisicing elit. 
+					  			Nulla nemo ad sapiente officia amet.
+			                </p>
+		                </div>
+	                </div>
+			  	</div>	
+			  	<div class="item">
+			  		<div class="c-content-blog-post-card-1 c-option-2">			  			
+			  			<div class="c-media c-content-overlay">
+			  				<div class="c-overlay-wrapper">
+				  				<div class="c-overlay-content">
+					  				<a href="#"><i class="icon-link"></i></a>
+					  				<a href="./assets/base/img/content/stock2/05.jpg" data-lightbox="fancybox" data-fancybox-group="gallery">
+					  					<i class="icon-magnifier"></i>
+					  				</a>
+					  			</div>
+			  				</div>
+			  				<img class="c-overlay-object img-responsive" src="./assets/base/img/content/stock2/05.jpg" alt="">
+			  			</div>	
+			  			<div class="c-body">
+				  			<div class="c-title c-font-uppercase c-font-bold">
+				  				<a href="#">Compatible to all browsers</a>
+				  			</div>
+				  			<div class="c-author">
+				  				By <a href="#"><span class="c-font-uppercase">Mary Jane</span></a>
+				  				on <span class="c-font-uppercase">30 May 2015, 10:30AM</span>
+				  			</div>
+
+				  			<div class="c-panel">
+								<ul class="c-tags c-theme-ul-bg">
+									<li>chrome</li>
+									<li>firefox</li>
+									<li>ie</li>
+								</ul>							
+								<div class="c-comments"><a href="#"><i class="icon-speech"></i> 28 comments</a></div>
+							</div>
+					  		<p>
+					  			Lorem ipsum dolor sit amet, dolor adipisicing elit. 
+					  			Nulla nemo ad sapiente officia amet.
+			                </p>
+		                </div>
+	                </div>
+			  	</div>				 
+			</div>
+	        <!-- End-->
+	    </div>
+	    <!-- End-->
+	</div>
+</div><!-- END: CONTENT/BLOG/RECENT-POSTS -->
